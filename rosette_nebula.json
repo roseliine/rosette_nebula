@@ -2,13 +2,13 @@
     "manifest": {
         "author": "roseliine#1621",
         "version": "1.0.0",
-        "name": "simpli-pink"
+        "name": "rosette_nebula"
     },
     "background": {},
     "fonts": {},
     "simple_colors": {
         "accent": -4952367,
-        "background": -13490111,
+        "background": -13556680,
         "background_secondary": -14410967,
         "statusbar": -14410967,
         "input_background": -14410967,
