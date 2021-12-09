@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "roseliine#1621",
+        "version": "1.0.0",
+        "name": "simpli-pink"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -4952367,
+        "background": -13490111,
+        "background_secondary": -14410967,
+        "statusbar": -14410967,
+        "input_background": -14410967,
+        "mention_highlight": 817131217,
+        "active_channel": 632581841
+    },
+    "colors": {
+        "primary_dark_800": -14410967
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
