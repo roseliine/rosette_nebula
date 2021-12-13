@@ -16,8 +16,15 @@
         "active_channel": 632581841
     },
     "colors": {
-        "primary_dark_800": -14410967
+        "primary_dark_800": -14410967,
+        "primary_dark_100": 1270116049,
+        "uikit_btn_bg_color_selector_red": -4952367,
+        "primary_700": -14410967
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "drawable_voice_indicator_speaking": -4952367,
+        "drawable_button_red": 1689546449,
+        "drawable_button_grey": 1706323665
+    },
     "raws": {}
 }
